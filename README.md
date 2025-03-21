@@ -1,1 +1,2 @@
 # minecraft-comands
+/give @p iron_pickaxe{Enchantments:[{id:"fortune",lvl:10},{id:"unbreaking",lvl:10},{id:"mending",lvl:10},{id:"silk_touch",lvl:10}]} 1
